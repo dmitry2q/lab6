@@ -1,6 +1,14 @@
 
-#spisok{
-    list-style-image:url(C:/Users/79198/Desktop/lab6/style/123.jpg);
+#sp{
+ width:150px;
 }
+#spisok1{
+ list-style:circle url(C::/Users/79198/Desktop/lab6/style/123.jpg) inside;
+}
+#spisok2{
+ list-style-position:outside;
+}
+    
+
 
 
